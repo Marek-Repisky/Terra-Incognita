@@ -43,3 +43,14 @@ Cieľom hry je prežiť čo najdlhšie, vyhýbaním sa prekážok a dosiahnuť �
 - __123app__: na úpravu zvukov
 ___
 ## 2. Koncept
+### 2.1 Prehľad hry
+Hráč ovláda mimozemšťana, ktorý prechádza po Zemi a snaží sa prežiť v hre čo najdlhšie vyhýbaním sa nepriateľov. Existujú tu 2 typy nepriateľov: __pozemný__ a __lietajúci__. Aby sa hráč úspešne vyhol nepriateľom musí správne načasovať skok a momentum, obtiažnosť sa dynamicky prispôsobuje tým, že sa __rýchlosť__ nepriateľov a sveta __zväčšuje__ o __10%__, každých __100_ skóre.
+
+### 2.2 Interpretácia témy (Jeden level, ale neustále sa mení)
+__"Jeden level, ale neustále sa mení"__ - keď hráč dosiahne skóre __500__, čo symbolizuje vzdialenosť, ktorú prešiel; prostredie ako aj nepriatelia sa zmenia, čím sa zmení štýl hry.
+
+### 2.3 Základné mechaniky
+- __Prekážky__: na mape sa nachádzajú objekty, ktoré tvoria aktívnu prekážku ako pre hráča, ak aj pre nepriateľov.
+- __Bonusové predmety__: hráč môže na mape zbierať predmety, ktoré mu pridajú napr. život, silu útokom alebo znížia čas do konca kola.
+- __Pevne stanovené miesta generovania nepriateľov__: nepriatelia sa negenerujú hocikde na mape, ale majú na to pevne stanovené miesta, aby nenastala situácia, že sa nepriateľ spawne doslova na hráčovi, čím sa zníži hrateľnost.
+- __Hráč môže likvidovať nepriateľov__: hráč vystreľuje ohnivú gulu, ktorá pri náraze do nepriateľa spôsobuje jeho zranenie.
