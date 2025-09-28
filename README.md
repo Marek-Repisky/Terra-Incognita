@@ -1,6 +1,11 @@
 # Terra Incognita - Game Design Document
 
 Na tomto repozitári sa nachádza implementácia hry v Pygame. Hra predstavuje semestrálnu prácu z predmetu Objektové technológie.
+<p align="center">
+  <img src="https://github.com/Marek-Repisky/Terra-Incognita/blob/main/Screenshot from the game.PNG" alt=Screenshot z hry">
+  <br />
+  <i>Obrázok 1: Screenshot z hry</i>
+</p>
 
 __Autor__: Marek Repiský
 
@@ -17,7 +22,7 @@ Hra berie inšpiráciu na meniace sa prostredie od [videa](https://www.youtube.c
 <p align="center">
   <img src="https://github.com/SomeUsername456/Terra-Incognita/blob/main/obr%C3%A1zky/TOP%20100%203D%20Renders.jpg" alt=100 Renderov z Internetovej CG výzvy">
   <br />
-  <i>Obrázok 1: 100 Renderov z Internetovej CG výzvy</i>
+  <i>Obrázok 2: 100 Renderov z Internetovej CG výzvy</i>
 </p>
 
 __<ins>T-Rex Runner</ins>__
@@ -26,7 +31,7 @@ Mechaniku hrateľnosti berie od zabudovanej hry v prehliadači Chrome nazývanú
 <p align="center">
   <img src="https://github.com/SomeUsername456/Terra-Incognita/blob/main/obr%C3%A1zky/T-Rex%20Game.jpg" alt=T-Rex Runner">
   <br />
-  <i>Obrázok 2: T-Rex Runner</i>
+  <i>Obrázok 3: T-Rex Runner</i>
 </p>
 
 ### 1.2 Herný zážitok
@@ -73,7 +78,7 @@ Hra používa herný, pixelový alebo kreslený štýl, kde každé pozadie vyni
 <p align="center">
   <img src="https://github.com/SomeUsername456/Terra-Incognita/blob/main/obr%C3%A1zky/Parallax.png" alt=Paralexné pozadie">
   <br />
-  <i>Obrázok 3: Paralaxné pozadie</i>
+  <i>Obrázok 4: Paralaxné pozadie</i>
 </p>
 
 ### 3.2 Dizajn
@@ -81,7 +86,7 @@ V hre sú rôzne assety z [itch.io](https://itch.io/game-assets). Cieľom bolo d
 <p align="center">
   <img src="https://github.com/SomeUsername456/Terra-Incognita/blob/main/obr%C3%A1zky/hyena5.png" alt=Hyena">
   <br />
-  <i>Obrázok 4: Hyena</i>
+  <i>Obrázok 5: Hyena</i>
 </p>
 
 ___
