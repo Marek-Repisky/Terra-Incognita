@@ -2,7 +2,7 @@
 
 Na tomto repozitári sa nachádza implementácia hry v Pygame. Hra predstavuje semestrálnu prácu z predmetu Objektové technológie.
 <p align="center">
-  <img src="https://github.com/Marek-Repisky/Terra-Incognita/blob/main/Screenshot from the game.PNG" alt=Screenshot z hry">
+  <img src="https://github.com/Marek-Repisky/Terra-Incognita/blob/main/Screenshot from the game.PNG" alt="Screenshot z hry">
   <br />
   <i>Obrázok 1: Screenshot z hry</i>
 </p>
@@ -20,7 +20,7 @@ __<ins>Top 100 3D Renders from the Internet's Largest CG Challenge</ins>__
 
 Hra berie inšpiráciu na meniace sa prostredie od [videa](https://www.youtube.com/watch?v=iKBs9l8jS6Q), ktoré predstavuje 100 rozličných animácií na stanovenú tému a tým poukazuje na kreativitu a úsilie umelcov.
 <p align="center">
-  <img src="https://github.com/SomeUsername456/Terra-Incognita/blob/main/obr%C3%A1zky/TOP%20100%203D%20Renders.jpg" alt=100 Renderov z Internetovej CG výzvy">
+  <img src="https://github.com/SomeUsername456/Terra-Incognita/blob/main/obr%C3%A1zky/TOP%20100%203D%20Renders.jpg" alt="100 Renderov z Internetovej CG výzvy">
   <br />
   <i>Obrázok 2: 100 Renderov z Internetovej CG výzvy</i>
 </p>
@@ -29,7 +29,7 @@ __<ins>T-Rex Runner</ins>__
 
 Mechaniku hrateľnosti berie od zabudovanej hry v prehliadači Chrome nazývanú _T-Rex Runner_. _T-Rex Runner_ je jednoduchá hra, v ktorej ovládate malého dinosaura T-Rexa, ktorý skáče cez kaktusy a vyhýba sa vtákom. Rýchlosť hry sa postupne zvyšuje, a čím dlhšie prežijete, tým vyššie skóre dosiahnete.
 <p align="center">
-  <img src="https://github.com/SomeUsername456/Terra-Incognita/blob/main/obr%C3%A1zky/T-Rex%20Game.jpg" alt=T-Rex Runner">
+  <img src="https://github.com/SomeUsername456/Terra-Incognita/blob/main/obr%C3%A1zky/T-Rex%20Game.jpg" alt="T-Rex Runner">
   <br />
   <i>Obrázok 3: T-Rex Runner</i>
 </p>
@@ -76,7 +76,7 @@ ___
 ### 3.1 Vizuálny štýl
 Hra používa herný, pixelový alebo kreslený štýl, kde každé pozadie vyniká svojím štýlom. Zvieratá a hráč sú nakreslené v pixelovom štýle.
 <p align="center">
-  <img src="https://github.com/SomeUsername456/Terra-Incognita/blob/main/obr%C3%A1zky/Parallax.png" alt=Paralexné pozadie">
+  <img src="https://github.com/SomeUsername456/Terra-Incognita/blob/main/obr%C3%A1zky/Parallax.png" alt="Paralexné pozadie">
   <br />
   <i>Obrázok 4: Paralaxné pozadie</i>
 </p>
@@ -84,7 +84,7 @@ Hra používa herný, pixelový alebo kreslený štýl, kde každé pozadie vyni
 ### 3.2 Dizajn
 V hre sú rôzne assety z [itch.io](https://itch.io/game-assets). Cieľom bolo dosiahnuť podobný ale odlišný štýl pre každé pozadie. Obrázky zvierat a hráča pochádzajú z _[Street Animal Pixel Art](https://free-game-assets.itch.io/free-street-animal-pixel-art-asset-pack)_ a _[Enemy Sprite Sheets Pixel Art](https://free-game-assets.itch.io/free-enemy-sprite-sheets-pixel-art)_ ako aj z iných zdrojov.
 <p align="center">
-  <img src="https://github.com/SomeUsername456/Terra-Incognita/blob/main/obr%C3%A1zky/hyena5.png" alt=Hyena">
+  <img src="https://github.com/SomeUsername456/Terra-Incognita/blob/main/obr%C3%A1zky/hyena5.png" alt="Hyena">
   <br />
   <i>Obrázok 5: Hyena</i>
 </p>
